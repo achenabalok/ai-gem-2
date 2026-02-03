@@ -1,0 +1,32 @@
+{
+  "prompt_type": "detailed_image_generation",
+  "main_subject": {
+    "description": "A beautiful young woman with pale fair skin and subtle freckles, long voluminous wavy red/auburn hair spread out dramatically across the car hood, delicate features, subtle makeup with natural look, relaxed dramatic expression with eyes partially closed and one hand shielding forehead from sun",
+    "body_type": "slim hourglass figure with long legs, toned yet feminine proportions, smooth flawless skin"
+  },
+  "pose_and_composition": {
+    "pose": "lying reclined on the hood of a yellow sports car, body stretched out diagonally with legs extended toward front, right arm raised with hand resting on forehead in shielding/dramatic gesture, left arm relaxed by side, head tilted slightly back for sensual and relaxed vibe",
+    "framing": "medium full-body shot from mid-thigh up, low-angle perspective emphasizing the car hood and subject dominance, vertical portrait orientation with car filling lower frame"
+  },
+  "clothing_and_details": {
+    "swimsuit": "sleek pink high-cut one-piece bodysuit or swimsuit with deep scoop neckline, minimalist design featuring small black 'KEOR' logo text centered on chest (likely Off-White brand), smooth matte fabric clinging to body",
+    "accessories": "small hoop earrings, no other visible jewelry",
+    "overall_style": "minimalist high-fashion swimwear with branded logo, elegant and provocative"
+  },
+  "setting_and_background": {
+    "background": "outdoor urban parking lot on sunny day, asphalt surface with oil stains, green painted curb and sidewalk, orange and white traffic cone visible in mid-ground, subtle greenery on left",
+    "props": "classic bright yellow Porsche sports car (likely 911 model) with glossy paint, round headlight and Porsche crest emblem on hood clearly visible, subject lying directly on hood",
+    "environment": "casual daytime parking lot, bright and open atmosphere"
+  },
+  "lighting_and_style": {
+    "lighting": "harsh direct overhead sunlight creating strong highlights and reflections on car paint and skin, deep shadows under body and arm, high contrast with vibrant colors and dramatic mood",
+    "photography_style": "professional fashion editorial photography, high resolution, sharp focus on textures (hair, fabric, car paint), sensual and iconic car culture vibe, realistic with cinematic glamour",
+    "color_palette": "dominant bright yellow from car contrasting pink swimsuit, pale skin tones, neutral grays of asphalt, pops of green and orange"
+  },
+  "technical_parameters": {
+    "aspect_ratio": "2:3 vertical portrait",
+    "quality_tags": "highly detailed, photorealistic, masterpiece, 8k, sharp focus, realistic hair strands and car reflections, natural sunlight highlights and shadows",
+    "negative_prompt_suggestions": "blurry, deformed, extra limbs, low quality, artifacts, overexposed, harsh unnatural shadows, watermark, text except KEOR logo, cartoon, anime"
+  },
+  "combined_positive_prompt": "dramatic fashion portrait of a beautiful pale redhead woman with long wavy hair lying sensually on hood of bright yellow classic Porsche 911, wearing minimalist pink high-cut one-piece swimsuit with black 'KEOR' logo, hand shielding forehead from sun, sunny parking lot with traffic cone, harsh natural sunlight and reflections, high fashion editorial photography, highly detailed, photorealistic, iconic and seductive mood, masterpiece"
+}
